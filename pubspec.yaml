@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_riverpod: ^2.5.1
+  freezed: ^2.4.7
   go_router: ^13.2.1
   riverpod_annotation: ^2.3.5
   vibration: ^1.8.4

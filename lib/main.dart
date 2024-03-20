@@ -15,6 +15,7 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
+      title: 'Kegel Fit',
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Center(
